@@ -1,0 +1,5 @@
+# robots.txt for https://sarkisian.oops.wtf
+User-agent: *
+Allow: /
+
+Sitemap: https://sarkisian.oops.wtf/sitemap.xml
